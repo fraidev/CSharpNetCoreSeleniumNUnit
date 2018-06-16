@@ -1,0 +1,15 @@
+C:\Git\CSharpNetCoreSeleniumNUnit\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+C:\Git\CSharpNetCoreSeleniumNUnit\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.pdb
+C:\Git\CSharpNetCoreSeleniumNUnit\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+C:\Git\CSharpNetCoreSeleniumNUnit\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+C:\Git\CSharpNetCoreSeleniumNUnit\bin\Debug\netcoreapp2.0\CSharpNetCoreSeleniumNUnit.deps.json
+C:\Git\CSharpNetCoreSeleniumNUnit\bin\Debug\netcoreapp2.0\CSharpNetCoreSeleniumNUnit.runtimeconfig.json
+C:\Git\CSharpNetCoreSeleniumNUnit\bin\Debug\netcoreapp2.0\CSharpNetCoreSeleniumNUnit.runtimeconfig.dev.json
+C:\Git\CSharpNetCoreSeleniumNUnit\bin\Debug\netcoreapp2.0\CSharpNetCoreSeleniumNUnit.dll
+C:\Git\CSharpNetCoreSeleniumNUnit\bin\Debug\netcoreapp2.0\CSharpNetCoreSeleniumNUnit.pdb
+C:\Git\CSharpNetCoreSeleniumNUnit\obj\Debug\netcoreapp2.0\CSharpNetCoreSeleniumNUnit.csproj.CoreCompileInputs.cache
+C:\Git\CSharpNetCoreSeleniumNUnit\obj\Debug\netcoreapp2.0\CSharpNetCoreSeleniumNUnit.AssemblyInfoInputs.cache
+C:\Git\CSharpNetCoreSeleniumNUnit\obj\Debug\netcoreapp2.0\CSharpNetCoreSeleniumNUnit.AssemblyInfo.cs
+C:\Git\CSharpNetCoreSeleniumNUnit\obj\Debug\netcoreapp2.0\CSharpNetCoreSeleniumNUnit.dll
+C:\Git\CSharpNetCoreSeleniumNUnit\obj\Debug\netcoreapp2.0\CSharpNetCoreSeleniumNUnit.pdb
+C:\Git\CSharpNetCoreSeleniumNUnit\obj\Debug\netcoreapp2.0\CSharpNetCoreSeleniumNUnit.csprojAssemblyReference.cache

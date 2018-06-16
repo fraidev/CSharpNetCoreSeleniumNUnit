@@ -1,0 +1,63 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Git\\CSharpNetCoreSeleniumNUnit\\CSharpNetCoreSeleniumNUnit.csproj",
+    "projectName": "CSharpNetCoreSeleniumNUnit",
+    "projectPath": "C:\\Git\\CSharpNetCoreSeleniumNUnit\\CSharpNetCoreSeleniumNUnit.csproj",
+    "outputPath": "C:\\Git\\CSharpNetCoreSeleniumNUnit\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "DotNetSeleniumExtras.WaitHelpers": {
+          "target": "Package",
+          "version": "[3.11.0, )"
+        },
+        "Microsoft.NET.Test.Sdk": {
+          "target": "Package",
+          "version": "[15.7.2, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.0, )",
+          "autoReferenced": true
+        },
+        "NUnit3TestAdapter": {
+          "target": "Package",
+          "version": "[3.10.0, )"
+        },
+        "Selenium.WebDriver": {
+          "target": "Package",
+          "version": "[3.12.1, )"
+        },
+        "nunit": {
+          "target": "Package",
+          "version": "[3.10.1, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
