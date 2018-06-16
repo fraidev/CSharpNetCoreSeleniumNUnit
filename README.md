@@ -1,3 +1,2 @@
 # CSharpNetCoreSeleniumNUnit
-A simple use of Tests in Selenium with C# Net Core and NUnit
-Easy Template for Selenium Tests with NetCoreApp and NUnit
+A simple use of Tests in Selenium with NetCoreApp and NUnit
